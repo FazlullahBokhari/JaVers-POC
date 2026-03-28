@@ -1,4 +1,4 @@
-## POC FLOW (How Your System Works)
+## POC FLOW
  Problem Statement
 
 We need to compare two datasets (Old Rules vs New Rules)
